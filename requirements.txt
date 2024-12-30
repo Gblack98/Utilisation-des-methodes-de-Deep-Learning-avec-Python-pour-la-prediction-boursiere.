@@ -1,6 +1,5 @@
 absl-py==2.1.0
 altair==5.5.0
-apturl==0.5.2
 argcomplete==3.1.4
 asttokens==2.4.1
 astunparse==1.6.3
@@ -28,7 +27,6 @@ debugpy==1.8.7
 decorator==5.1.1
 defer==1.0.6
 distro==1.9.0
-distro-info==1.7+build1
 dnspython==2.6.1
 duplicity==2.1.4
 executing==2.1.0
